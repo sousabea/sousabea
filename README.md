@@ -1,4 +1,4 @@
-### Hello Word! 🤘
+### Hello World! 🤘
 
 Atuação há 8 anos na área de marketing com expertise em acompanhar, entender e antever mudanças e tendências de mercado, de consumo e nos estilos de vida e nos comportamento de compra na era omnichannel. Com abordagem de growth hacking, visão holística de crescimento em todos os canais e em nível organizacional de forma rentável e ágil.
 
