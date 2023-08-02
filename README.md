@@ -9,7 +9,7 @@ Conhecimento em técnicas de manipulação e análises de dados para estruturaç
 
 🎓 Bacharelado em Administração (Uninove)
  
-🚀 Consultora de eCommerce e marketing analytics no GPA
+🚀 Analytics e Insights no Itaú
 
 👅 Linguagens: SQL, R e Python
 
