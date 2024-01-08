@@ -1,19 +1,19 @@
 ### Hello World! 🤘
 
-Atuação há 8 anos na área de marketing com expertise em acompanhar, entender e antever mudanças e tendências de mercado, de consumo e nos estilos de vida e nos comportamento de compra na era omnichannel. Com abordagem de growth hacking, visão holística de crescimento em todos os canais e em nível organizacional de forma rentável e ágil.
+8-year experience in the marketing field, specialized in following, understanding and predicting marketing trends and changes regarding consumption, lifestyle, purchasing behavior and omnichannel. I also work with a growth-hacking approach, a holistic view of growth in every channel on an organizational level in a profitable and agile way. 
 
-Conhecimento em técnicas de manipulação e análises de dados para estruturação e solução de problemas mercadológicos e principais conceitos e métodos relativos ao sistema de informações de mercado e a influência destas nas estratégias de tomada de decisão da organização em um ambiente de alta competitividade.
+Knowledge of data manipulation and analysis, aiming at solving market problems, and of the main methods regarding market-based systems and their influence on organizational decision-making within a highly competitive environment.
 
 
 🎓 MBA Ciências do Consumo (ESPM)
 
 🎓 Bacharelado em Administração (Uninove)
  
-🚀 Analytics e Insights no Itaú
+🎓 Data Analytics Tools & Software: SQL, Python, Excel, VBA, Power BI, Google Data Studio, Tableau, Adobe Analytics, Google Analytics 4 - GA4, Dunnhumby, Nielsen, Mintel, Microstrategy BI, SA, SAS and Alteryx.
 
-👅 Linguagens: SQL, R e Python
+🚀 Analytics & Insights at Itaú
 
-💻 Áreas de interesse: data & analytics, market intelligence, growth, digital, marketing e consumo
+💻 Area of interest: Data & Analytics | Market Intelligence | Growth | Digital | Marketing and Consumption
 
 💭 "A cabeça pensa onde os pés pisam" - Frei Betto
 
